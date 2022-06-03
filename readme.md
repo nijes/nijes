@@ -1,6 +1,6 @@
 # NIJES
 
-#### Hi ! I'm sejin🌱   
+### Hi ! I'm sejin🌱   
          
 📚**Studying**📚   
 
