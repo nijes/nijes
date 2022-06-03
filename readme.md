@@ -1,4 +1,4 @@
-<center># NIJES</center>
+# NIJES
 
 ### Hi ! I'm sejin🌱   
          
