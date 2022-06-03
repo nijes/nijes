@@ -1,3 +1,5 @@
+<center>
+
 # NIJES
 
 ### Hi ! I'm sejin🌱   
@@ -13,3 +15,5 @@
 
       
 ![nijes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijes&show_icons=true&theme=moltack&count_private=true)
+
+</center>
