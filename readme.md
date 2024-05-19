@@ -17,16 +17,15 @@
 
 🛠️**Etc**🛠️
 
-<p>* Bachelor's degree in Civil&Environmental Engineering</p>
-<p>* Currently studying for a Master's in SW·AI Convergence</p>
+<p>
+* Bachelor's degree in Civil&Environmental Engineering</br>
+* Currently studying for a Master's in SW·AI Convergence
+</p>
 
 <br>
 <br>
       
-![nijes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijes&show_icons=true&theme=swift&count_private=true)
-
-<br>
-<br>
+# ![nijes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijes&show_icons=true&theme=swift&count_private=true)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sejink905)
 
