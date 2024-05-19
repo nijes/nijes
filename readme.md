@@ -17,7 +17,7 @@
 
 🛠️**Etc**🛠️
 
-**Bachelor's degree in Civil&Environmental Engineering**
+**Bachelor's degree in Civil&Environmental Engineering**<br>
 **Currently studying for a Master's in SW·AI Convergence**
 
 <br>
